@@ -5,8 +5,8 @@
 This project is under a **custom license**.  
 You **cannot** copy, modify, or redistribute any part of this project without explicit permission.  
 
-For details, see the [LICENSE](./LICENSE) file.
-[![License: Custom](https://img.shields.io/badge/License-Custom-red.svg)](./LICENSE)
+For details, see the [LICENSE](./LICENSE.md) file.
+[![License: Custom](https://img.shields.io/badge/License-Custom-red.svg)](./LICENSE.md)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
