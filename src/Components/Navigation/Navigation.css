@@ -14,5 +14,5 @@
 }
 
 @media (max-width: 640px) {
-  .profile-avatar { width: 8rem; height: 8rem; }
+  .profile-avatar { width: 6rem; height: 6rem; }
 }
