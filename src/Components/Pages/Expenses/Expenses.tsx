@@ -1,6 +1,6 @@
 import type { ExpenseModel } from "../../../Models/expenseModels";
 import { useEffect, useState } from "react";
-import { getExpenses } from "../../../Services/ExpenseService";
+import { getExpenses } from "../../../Services/expenseService";
 
 const Expenses: React.FC = () => {
   const [expenses, setExpenses] = useState<ExpenseModel[]>([]);
